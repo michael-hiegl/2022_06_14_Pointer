@@ -1,0 +1,10 @@
+﻿  Main.c
+C:\Users\micha\source\repos\2022_06_14_Pointer\2022_06_14_Pointer\Main.c(46,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+C:\Users\micha\source\repos\2022_06_14_Pointer\2022_06_14_Pointer\Main.c(46,9): warning C4313: 'printf': '%u' in format string conflicts with argument 2 of type 'int *'
+C:\Users\micha\source\repos\2022_06_14_Pointer\2022_06_14_Pointer\Main.c(47,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+C:\Users\micha\source\repos\2022_06_14_Pointer\2022_06_14_Pointer\Main.c(47,9): warning C4313: 'printf': '%u' in format string conflicts with argument 2 of type 'int *'
+C:\Users\micha\source\repos\2022_06_14_Pointer\2022_06_14_Pointer\Main.c(48,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'double *'
+C:\Users\micha\source\repos\2022_06_14_Pointer\2022_06_14_Pointer\Main.c(48,9): warning C4313: 'printf': '%u' in format string conflicts with argument 2 of type 'double *'
+C:\Users\micha\source\repos\2022_06_14_Pointer\2022_06_14_Pointer\Main.c(49,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'double *'
+C:\Users\micha\source\repos\2022_06_14_Pointer\2022_06_14_Pointer\Main.c(49,9): warning C4313: 'printf': '%u' in format string conflicts with argument 2 of type 'double *'
+  2022_06_14_Pointer.vcxproj -> C:\Users\micha\source\repos\2022_06_14_Pointer\x64\Debug\2022_06_14_Pointer.exe
